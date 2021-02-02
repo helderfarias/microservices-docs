@@ -6,3 +6,5 @@
 - https://itnext.io/microservices-architecture-an-implementation-of-saga-pattern-dbbe5d881c78
 - https://www.vinsguru.com/architectural-pattern-orchestration-saga-pattern-implementation-using-kafka/
 - https://www.vinsguru.com/choreography-saga-pattern-with-spring-boot/
+- https://www.vinsguru.com/cqrs-pattern-microservice-design-patterns/
+- https://www.vinsguru.com/cloud-design-patterns-cache-aside-read-through-pattern/
